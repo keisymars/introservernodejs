@@ -9,8 +9,8 @@
 
 <br><br>
 
-Este repositório contêm códigos no qual foi os primeiros passos <br>
-para compreender um pouco mais sobre como criar um servidor.<br>
+Este repositório contêm códigos no qual foi os primeiros passos 
+para compreender um pouco mais sobre como criar um servidor.
 Aprendendo princípios fundamentais e os componentes-chave envolvidos nesse processo.
 <br>
 <br>
