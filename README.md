@@ -1,7 +1,7 @@
 # introservernodejs
 <table align="right">
       <tr><td><a href="README.md">🌎 Portuguese</a></td></tr>
-      <tr><td><a href="README_EN">🌎 English</a></td></tr>
+      <tr><td><a href="README_EN.md">🌎 English</a></td></tr>
 </table>
 
 ## Stacks utilizadas
