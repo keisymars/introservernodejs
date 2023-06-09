@@ -1,4 +1,9 @@
 # introservernodejs
+<table align="right">
+      <tr><td><a href="README.md">🌎 Portuguese</a></td></tr>
+      <tr><td><a href="README_EN">🌎 English</a></td></tr>
+</table>
+
 ## Stacks utilizadas
 **Back-end:**      <br>
  <img src ="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" width="100px"/>
