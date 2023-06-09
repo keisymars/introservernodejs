@@ -7,8 +7,7 @@
 <a href="#"><img align="right" src="https://github.com/keisymars/introservernodejs/blob/main/img/server.gif" width="200 " height="200" /></a>
 <a href="#"><img align="right" src="https://github.com/keisymars/introservernodejs/blob/main/img/server.gif" width="200 " height="200" /></a>
 
-<br><br>
-
+<br>
 Este repositório contêm códigos no qual foi os primeiros passos 
 para compreender um pouco mais sobre como criar um servidor.
 Aprendendo princípios fundamentais e os componentes-chave envolvidos nesse processo.
